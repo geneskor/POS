@@ -1,0 +1,6 @@
+/target/
+/results.csv
+.DS_Store
+.vscode/
+.idea/
+*.iml
